@@ -1,3 +1,20 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+Roadmap - 
+
+0. HTML + CSS
+1. JS + TS
+2. FE Framework - React / Angular / Vue
+3. Developer Tools - Vite, Eslint, Testing, Github Actions
+4. Optional 1 - BE Framework - Python + Django, JS + NodeJS, Java + Springboot, Go, Ruby on Rails
+5. Optional 2 - Mobile Development - React Native, Flutter
+6. Optional 3 - Devops - AWS, Caching, Load Balancing, Hosting
+
+
+Resources - 
+0. https://topmate.io/bipinkalra
+1. https://www.scaler.com/topics/javascript/
+2. https://www.educative.io/
+3. https://www.greatfrontend.com/questions/javascript-interview-questions
+4. https://github.com/sudheerj/reactjs-interview-questions
+5. https://css-tricks.com/
+6. https://www.youtube.com/c/programmingwithmosh
+7. https://codingminutes.com/courses/python-programming
